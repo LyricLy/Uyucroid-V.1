@@ -25,4 +25,4 @@ class Utility:
         os.execv(sys.executable, ['python3.6'] + sys.argv)
         
 def setup(bot):
-    bot.add_cog(Utility(bot)
+    bot.add_cog(Utility(bot))
