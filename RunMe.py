@@ -1,5 +1,5 @@
 description = """
-Memeroid, the bot for Lucario101's shack-based emote server!
+Uyucroid, the frenchiestfry to ever fry.
 """
 
 # import dependencies
